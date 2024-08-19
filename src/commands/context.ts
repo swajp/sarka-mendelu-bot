@@ -1,3 +1,4 @@
+/*
 import type {
   MessageContextMenuCommandInteraction,
   UserContextMenuCommandInteraction,
@@ -24,3 +25,4 @@ export class Example {
     await interaction.reply("I am user context handler");
   }
 }
+*/

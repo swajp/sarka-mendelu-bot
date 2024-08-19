@@ -1,3 +1,4 @@
+/*
 import { Pagination } from "@discordx/pagination";
 import type { CommandInteraction } from "discord.js";
 import { EmbedBuilder } from "discord.js";
@@ -34,3 +35,5 @@ export class SlashExample {
     await pagination.send();
   }
 }
+
+*/

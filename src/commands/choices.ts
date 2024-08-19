@@ -1,3 +1,4 @@
+/*
 import type { CommandInteraction } from "discord.js";
 import { ApplicationCommandOptionType } from "discord.js";
 import { Discord, Slash, SlashChoice, SlashOption } from "discordx";
@@ -35,3 +36,5 @@ export class Example {
     await interaction.reply(what);
   }
 }
+
+*/

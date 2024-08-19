@@ -1,3 +1,4 @@
+/*
 import type {
   CommandInteraction,
   MessageActionRowComponentBuilder,
@@ -57,3 +58,4 @@ export class Example {
     return;
   }
 }
+*/

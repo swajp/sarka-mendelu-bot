@@ -1,3 +1,4 @@
+/*
 import type {
   ButtonInteraction,
   CommandInteraction,
@@ -58,3 +59,5 @@ export class Example {
     await interaction.reply(`👋 ${interaction.member.toString()}`);
   }
 }
+
+*/

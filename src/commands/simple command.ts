@@ -1,3 +1,4 @@
+/*
 import type { CommandInteraction, Message } from "discord.js";
 import type { SimpleCommandMessage } from "discordx";
 import {
@@ -51,3 +52,5 @@ export class Example {
     await this.likeIt(command);
   }
 }
+
+*/

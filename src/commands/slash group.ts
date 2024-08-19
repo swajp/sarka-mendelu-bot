@@ -1,3 +1,4 @@
+/*
 import type { CommandInteraction } from "discord.js";
 import { ApplicationCommandOptionType } from "discord.js";
 import { Discord, Slash, SlashGroup, SlashOption } from "discordx";
@@ -65,3 +66,5 @@ export class GroupExample {
     await interaction.reply(text);
   }
 }
+
+*/
